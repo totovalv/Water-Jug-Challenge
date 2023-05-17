@@ -8,7 +8,7 @@
    
 2. Run the following command to install the project dependencies:
  ```bash
-    npm install
+ npm install
 ``` 
 
 3. Run the Application
