@@ -2,9 +2,9 @@
 
 ## Install Dependencies
 1. Navigate into the cloned repository's directory:
-   ```bash
-   cd water-jug-challenge
-   ```
+ ```bash
+ cd water-jug-challenge
+ ```
    
 2. Run the following command to install the project dependencies:
  ```bash
