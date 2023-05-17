@@ -6,9 +6,11 @@
    cd water-jug-challenge
    
 2. Run the following command to install the project dependencies:
-npm install
+ ```bash
+    npm install
+``` 
 
-# Run the Application
+Run the Application
 Once the dependencies are installed, start the application with the following command:
 
 bash
