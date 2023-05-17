@@ -12,10 +12,9 @@
 
 Run the Application
 Once the dependencies are installed, start the application with the following command:
-
-bash
-
+```bash
 npm run dev
+``` 
 The application will start, and you should see the Water Jug Challenge SPA running in your browser.
 
 # Enter Input Values
